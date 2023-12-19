@@ -15,7 +15,7 @@ jobs:
         
       - name: 提取分支名称
         id: extract_branch
-        run: echo "::set-output name=branch_name::${{ github.ref.replace('refs/heads/', '') }}"
+        run: echo "::set-output name=branch_name::\${{ github.ref.replace('refs/heads/', '') }}"
         
       - name: 使用分支名称
         run: echo "使用的分支名称为 ${{ steps.extract_branch.outputs.branch_name }}"
