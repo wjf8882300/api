@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T04:10:24.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3CM4-yMOscCD1vyoExZA" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T04:19:55.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-jY9C3Pv_2y5OMyw3BqT" version="23.1.5" type="github">
   <diagram name="Page-1" id="On2wJwOAbUo8TCHwCKMF">
-    <mxGraphModel dx="2074" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lJH4bK6E8sEyenCNSrEK-3" value="Partner APP" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="90" width="200" height="1670" as="geometry">
+          <mxGeometry x="10" y="10" width="200" height="1670" as="geometry">
             <mxRectangle x="240" y="310" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -37,7 +37,7 @@
           <mxGeometry x="20" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJH4bK6E8sEyenCNSrEK-4" value="Partner Gateway" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="90" width="200" height="1670" as="geometry">
+          <mxGeometry x="210" y="10" width="200" height="1670" as="geometry">
             <mxRectangle x="240" y="310" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -57,7 +57,7 @@
           <mxGeometry x="30" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJH4bK6E8sEyenCNSrEK-5" value="XEV Gateway" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="90" width="200" height="1670" as="geometry">
+          <mxGeometry x="410" y="10" width="200" height="1670" as="geometry">
             <mxRectangle x="240" y="310" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -88,7 +88,7 @@
           <mxGeometry x="40" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJH4bK6E8sEyenCNSrEK-6" value="Operator" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="90" width="200" height="1670" as="geometry">
+          <mxGeometry x="610" y="10" width="200" height="1670" as="geometry">
             <mxRectangle x="240" y="310" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -99,7 +99,7 @@
           <mxGeometry x="40" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJH4bK6E8sEyenCNSrEK-7" value="Cabinet" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="90" width="200" height="1670" as="geometry">
+          <mxGeometry x="810" y="10" width="200" height="1670" as="geometry">
             <mxRectangle x="240" y="310" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -155,8 +155,8 @@
         </mxCell>
         <mxCell id="lJH4bK6E8sEyenCNSrEK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lJH4bK6E8sEyenCNSrEK-10" target="lJH4bK6E8sEyenCNSrEK-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="260" as="sourcePoint" />
-            <mxPoint x="280" y="375" as="targetPoint" />
+            <mxPoint x="540" y="180" as="sourcePoint" />
+            <mxPoint x="260" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lJH4bK6E8sEyenCNSrEK-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lJH4bK6E8sEyenCNSrEK-17" target="lJH4bK6E8sEyenCNSrEK-18">
@@ -217,11 +217,11 @@
         </mxCell>
         <mxCell id="lJH4bK6E8sEyenCNSrEK-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="lJH4bK6E8sEyenCNSrEK-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000" y="1210" as="targetPoint" />
+            <mxPoint x="980" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lJH4bK6E8sEyenCNSrEK-61" value="SUCCESS:&amp;nbsp;1&amp;nbsp;SLOT&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;BATTERIES&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;EXCHANGED&amp;nbsp;WITH&amp;nbsp;1&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;DIFFERENT&amp;nbsp;SET&amp;nbsp;OF&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;BATTERIES&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;FAIL:&amp;nbsp;1.&amp;nbsp;NO&amp;nbsp;BATTERIES&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;EXCHANGED&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;2.&amp;nbsp;EXCHANGED&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;BATTERIES&amp;nbsp;&amp;lt;&amp;nbsp;3&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="1100" width="280" height="240" as="geometry" />
+          <mxGeometry x="1040" y="1020" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="lJH4bK6E8sEyenCNSrEK-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lJH4bK6E8sEyenCNSrEK-33" target="lJH4bK6E8sEyenCNSrEK-34">
           <mxGeometry relative="1" as="geometry" />
